@@ -2,11 +2,7 @@ Important Note : Please do not run the code on a low resource system!
 
 Classifiers will take a considerable amount of time to generate the results owing to massive size of the data.
 
-Run the following command in a linux terminal to download the dataset and codes for this project
-
-'git clone https://soumyabanerjee1996@bitbucket.org/soumyabanerjee1996/cs685a-data-mining-term-project-group-08.git'
-
-It will download the folder named 'cs685a-data-mining-term-project-group-08' which will contain 'project.zip'. Extract the zip to find the datasets and code.  To run the codes, the following python libraries are required to run the codes :
+To run the codes, the following python libraries are required to run the codes :
 
 python - 3.6
 
